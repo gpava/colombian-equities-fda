@@ -3,14 +3,17 @@ message: "Please cite the version of the software used for your analysis."
 title: "Analysis code for Temporal Heterogeneity in the Trading Volume–Return Relationship in Colombian Equities: A Function-on-Function Regression Approach"
 type: software
 version: "1.0.0"
+doi: "10.5281/zenodo.24490518"
 abstract: >-
-  R code for a function-on-function regression of stock returns on trading
-  volume for 13 Colombian equities. The workflow fits the empirical models
-  and produces figures and numerical summaries from locally supplied data.
+  This R workflow examines the relationship between trading volume and stock returns for 13 Colombian equities 
+  using function-on-function regression. It produces 24 EPS figures, 24 CSV files with numerical results, and an R session 
+  information file. Reproducing the analysis requires financial data from Investing.com, which users must obtain under 
+  the provider’s terms. The DATA_ACCESS.md file describes the required inputs and how to prepare them for the analysis.
 authors:
   - family-names: "Pava-Parra"
     given-names: "Gustavo A."
     affiliation: "Universidad Nacional de Colombia"
+    orcid: https://orcid.org/0009-0004-6503-8533
 license: MIT
 keywords:
   - Functional data analysis
