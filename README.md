@@ -212,7 +212,7 @@ to supply the third-party input data described in [DATA_ACCESS.md](DATA_ACCESS.m
 
 ## Authorship, citation and license
 
-Gustavo Andres Pava Parra developed the software. David L. Ocampo R. and
+Gustavo A. Pava-Parra developed the software. David L. Ocampo R. and
 Juan Carlos Riaño-Rojas reviewed and edited the accompanying manuscript.
 
 Use `CITATION.cff` or GitHub's **Cite this repository** to cite the software.
