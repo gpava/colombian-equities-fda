@@ -8,8 +8,8 @@ abstract: >-
   volume for 13 Colombian equities. The workflow fits the empirical models
   and produces figures and numerical summaries from locally supplied data.
 authors:
-  - family-names: "Pava Parra"
-    given-names: "Gustavo Andres"
+  - family-names: "Pava-Parra"
+    given-names: "Gustavo A."
     affiliation: "Universidad Nacional de Colombia"
 license: MIT
 keywords:
